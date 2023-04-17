@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1,
+        "nom": "Partie1",
+        "image": "capesterreNordPart1.png"
+   
+    },
+    {
+        "id": 2,
+        "nom": "Partie2",
+        "image": "capesterreNordPart2.png"
+    },
+    {
+        "id": 3,
+        "nom": "Partie3",
+        "image": "capesterreSud.png"
+
+    }
+]
